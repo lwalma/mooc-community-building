@@ -28,7 +28,8 @@ The creation of a MOOC stands on the contribution of many people at TU Delft inc
 
 ## Contribution
 What ever contribution you can make, even 10' minutes of your time is truly appreciated.
-We need expertise in community engagement (in particular MOOC), open working and educational design and _feedback_ along the way.
+We need expertise in community engagement (in particular MOOC), open working and educational design and _feedback_ along the way. This is the link to our Roadmap: [LINK](https://docs.google.com/document/d/1Q1W9wEz-sdAQ0xRujNaaIlUtDKsEHCQ98U1Xrf3jSR4/edit#)
+
 
 If you have any ideas about the above, please get involved.
 
