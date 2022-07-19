@@ -2,7 +2,7 @@
 
 Welcome | Welkom | Benvenuti e Benvenute | to repository of the project "Building a Community around the Open Science MOOC". Here you'll find more information about our project and how you can contribute.
 
-## The problem
+## Project Background
 
 The Delft University of Technology (TU Delft) in the Netherlands runs once a year a Massive Online Open Course on Open Science on the edX platform: 
 [MOOC Open Science: Share you research with the world.](https://learning.edx.org/course/course-v1:DelftX+OS101x+2T2022/home)
