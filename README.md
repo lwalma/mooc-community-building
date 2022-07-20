@@ -33,11 +33,11 @@ We [Lisanne Walma (she/her)](https://github.com/lwbwalma) and [Alessandra Candia
 The creation of a MOOC stands on the contribution of many people at TU Delft including developers of content for specific modules (Introduction, Open Data, Open Access Publishing, FAIR Software, Visibility and Citizen Science), moderators, educational designers and developers, administrative staff and media/communication staff.
 
 ## Project Documents
-Our Code of conduct: [LINK](https://github.com/lwbwalma/mooc-community-building/blob/main/CODE_OF_CONDUCT.md)
-Our Roadmap: [LINK](https://docs.google.com/document/d/1Q1W9wEz-sdAQ0xRujNaaIlUtDKsEHCQ98U1Xrf3jSR4/edit#)
-Our Project developement plan to improve Open Working as a team: [LINK](https://docs.google.com/document/d/1RMmWcRtVJuWeKbASLavnQPtKZe-s6F7tvHvM_lhdQko/edit?usp=sharing)
-Presentation for the OLS-5 programme [LINK](https://github.com/open-life-science/ols-5) graduation on Zenodo: [LINK](https://doi.org/10.5281/zenodo.6855937)
-Our Speedblog post for OLS-5: [LINK](https://docs.google.com/document/d/1wB3GX13nIdGWJJTEgVbd8G8W_eVbTowokozbrL--e3g/edit?usp=sharing)
+- Our Code of conduct: [LINK](https://github.com/lwbwalma/mooc-community-building/blob/main/CODE_OF_CONDUCT.md)
+- Our Roadmap: [LINK](https://docs.google.com/document/d/1Q1W9wEz-sdAQ0xRujNaaIlUtDKsEHCQ98U1Xrf3jSR4/edit#)
+- Our Project developement plan to improve Open Working as a team: [LINK](https://docs.google.com/document/d/1RMmWcRtVJuWeKbASLavnQPtKZe-s6F7tvHvM_lhdQko/edit?usp=sharing)
+- Presentation for the OLS-5 programme [LINK](https://github.com/open-life-science/ols-5) graduation on Zenodo: [LINK](https://doi.org/10.5281/zenodo.6855937)
+- Our Speedblog post for OLS-5: [LINK](https://docs.google.com/document/d/1wB3GX13nIdGWJJTEgVbd8G8W_eVbTowokozbrL--e3g/edit?usp=sharing)
 
 
 ## Contact us
